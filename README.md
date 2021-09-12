@@ -1,7 +1,7 @@
 ### Olá eu sou Lucas Marte 👋
 
 - 🔭 Hoje trabalho atualmente com automação de processos roboticos.
-- 🌱 Estudando RPA atravez das ferramenta UiPath e desenvolvimento web HTML e CSS.
+- 🌱 Estudando RPA atravez da ferramenta UiPath e desenvolvimento web HTML e CSS.
 - 📫 Contate-me no email: Marte.lu@hotmail.com.br
 
  <div>
