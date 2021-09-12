@@ -12,7 +12,7 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-UiPath" height="35" width="40" src="https://www.gartner.com/pi/vendorimages/processgold_process-mining_1588584629425.png">
-  <img align="center" alt="Lucas-SQL" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Lucas-SQL" height="35" width=28" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png">
   <img align="center" alt="Lucas-C" height="40" width="40" src="https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22.png">
   <img align="center" alt="Lucas-Csharp" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
