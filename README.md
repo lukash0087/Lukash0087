@@ -15,11 +15,12 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-UiPath" height="35" width="40" src="https://www.gartner.com/pi/vendorimages/processgold_process-mining_1588584629425.png">
   <img align="center" alt="Lucas-SQL" height="35" width=28" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png">
+  <img align="center" alt="Lucas-JAVA" height="40" width="40" src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183669.png?token=exp=1634072209~hmac=88b4823cf530ce58c5a4378a850a4205">
   <img align="center" alt="Lucas-C" height="40" width="40" src="https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22.png">
   <img align="center" alt="Lucas-Csharp" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-JAVA" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+  
 </div>
   
   ##
