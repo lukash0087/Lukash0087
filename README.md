@@ -1,8 +1,8 @@
 ### Olá eu sou Lucas Marte 👋
 
-- 🔭 Hoje trabalho atualmente com automação de processos roboticos.
-- 🌱 Estudando RPA atravez da ferramenta UiPath Automation Anywhere e Power Automate.
-- 📫 Contate-me no email: Marte.lu@hotmail.com.br
+- 🔭 Especialista em desenvolvimento de automações RPA.
+- 🌱 Estudando RPA atravez da ferramenta UiPath Automation Anywhere e Power Automate e Python.
+- 📫 Contate-me no email: lucas.marte@icloud.com
 
  <div>
   <a href="https://github.com/lukash0087">
