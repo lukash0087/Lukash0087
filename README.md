@@ -14,7 +14,7 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-UIPATH" height="40" width=40" src="https://companieslogo.com/img/orig/PATH-4f96bcbf.png?t=1720244493.PNG">
-  <img align="center" alt="Lucas-POWER" height="35" width="40" src="https://img.icons8.com/?size=512&id=kTTt25v6Drpd&format=png">
+  <img align="center" alt="Lucas-POWER" height="40" width="40" src="https://img.icons8.com/?size=512&id=kTTt25v6Drpd&format=png">
   <img align="center" alt="Lucas-Anywhere" height="40" width="40" src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/vqgertgtthpygrr2tcyb.png">
   <img align="center" alt="Lucas-SQL" height="35" width=28" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png">
   <img align="center" alt="Lucas-Csharp" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
