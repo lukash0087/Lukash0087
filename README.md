@@ -13,7 +13,7 @@
 
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-SQL" height="35" width=28" src="https://companieslogo.com/img/orig/PATH-4f96bcbf.png?t=1720244493.PNG">
+  <img align="center" alt="Lucas-SQL" height="35" width=35" src="https://companieslogo.com/img/orig/PATH-4f96bcbf.png?t=1720244493.PNG">
   <img align="center" alt="Lucas-SQL" height="35" width=28" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png">
   <img align="center" alt="Lucas-C" height="40" width="40" src="https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22.png">
   <img align="center" alt="Lucas-Csharp" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
