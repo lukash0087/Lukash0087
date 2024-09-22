@@ -18,7 +18,7 @@
   <img align="center" alt="Lucas-Anywhere" height="40" width="40" src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/vqgertgtthpygrr2tcyb.png">
   <img align="center" alt="Lucas-SQL" height="35" width=28" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png">
   <img align="center" alt="Lucas-Csharp" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Lucas-PYTHON" height="40" width="45" src="https://www.pngfind.com/pngs/m/341-3415307_python-chess-python-programming-png-transparent-png.png">
+  <img align="center" alt="Lucas-PYTHON" height="40" width="40" src="https://www.pngfind.com/mpng/TJxTJR_python-logo-png-transparent-background-python-logo-png/">
   
 </div>
   
